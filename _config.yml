@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Anecdotus
+description: Le générateur à sujets de conversation.
+show_downloads: false
+logo: logo.png
